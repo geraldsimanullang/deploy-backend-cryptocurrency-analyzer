@@ -1,0 +1,62 @@
+[
+  {
+    "GeckoId": "bitcoin",
+    "symbol": "BTC",
+    "name": "Bitcoin",
+    "imgUrl": "https://cryptologos.cc/logos/bitcoin-btc-logo.svg?v=033"
+  },
+  {
+    "GeckoId": "ethereum",
+    "symbol": "ETH",
+    "name": "Ethereum",
+    "imgUrl": "https://cryptologos.cc/logos/ethereum-eth-logo.svg?v=033"
+  },
+  {
+    "GeckoId": "tether",
+    "symbol": "USDT",
+    "name": "Tether",
+    "imgUrl": "https://cryptologos.cc/logos/tether-usdt-logo.svg?v=033"
+  },
+  {
+    "GeckoId": "bnb",
+    "symbol": "BNB",
+    "name": "BNB",
+    "imgUrl": "https://cryptologos.cc/logos/bnb-bnb-logo.svg?v=033"
+  },
+  {
+    "GeckoId": "solana",
+    "symbol": "SOL",
+    "name": "Solana",
+    "imgUrl": "https://cryptologos.cc/logos/solana-sol-logo.svg?v=033"
+  },
+  {
+    "GeckoId": "xrp",
+    "symbol": "XRP",
+    "name": "XRP",
+    "imgUrl": "https://cryptologos.cc/logos/xrp-xrp-logo.svg?v=033"
+  },
+  {
+    "GeckoId": "dogecoin",
+    "symbol": "DOGE",
+    "name": "Dogecoin",
+    "imgUrl": "https://cryptologos.cc/logos/dogecoin-doge-logo.svg?v=033"
+  },
+  {
+    "GeckoId": "tron",
+    "symbol": "TRX",
+    "name": "TRON",
+    "imgUrl": "https://cryptologos.cc/logos/tron-trx-logo.svg?v=033"
+  },
+  {
+    "GeckoId": "helium",
+    "symbol": "HNT",
+    "name": "Helium",
+    "imgUrl": "https://cryptologos.cc/logos/helium-hnt-logo.svg?v=033"
+  },
+  {
+    "GeckoId": "monero",
+    "symbol": "XMR",
+    "name": "Monero",
+    "imgUrl": "https://cryptologos.cc/logos/monero-xmr-logo.svg?v=033"
+  }
+]
